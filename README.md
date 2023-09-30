@@ -1,4 +1,4 @@
 # ATM_JAVA
  Proyecto ATM
 
-   Proyecto sencilo de un programa de cajero con Java Eclipse con consola
+   Proyecto sencillo de un programa de cajero automático con Java Eclipse y consola
